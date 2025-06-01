@@ -13,8 +13,8 @@ Willkommen beim Projekt "Lern-App für Kinder"! Diese App soll Kindern im Kinder
 
 ## 📚 Dokumentation (Wiki)
 
-Eine ausführlichere Dokumentation zu Projektvision, technischer Architektur, einzelnen Modulen und wie du beitragen kannst, findest du in unserem [**GitHub Wiki**](https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME/wiki).
-_(Ersetze `DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME` mit den korrekten Werten)_
+Eine ausführlichere Dokumentation zu Projektvision, technischer Architektur, einzelnen Modulen und wie du beitragen kannst, findest du in unserem 
+[**GitHub Wiki**](https://github.com/KayBeckmann/vorschule/wiki).
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +22,7 @@ _(Ersetze `DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME` mit den korrekten Werten)_
 - **Lokale Datenbank:** [Dexie.js](https://dexie.org/) (Wrapper für IndexedDB)
 - **UI-Framework (optional):** _[z.B. Vuetify, Quasar, Tailwind CSS - hier ggf. ergänzen]_
 - **Build-Tool:** [Vite](https://vitejs.dev/) (Standard bei neuen Vue-Projekten)
-- **Sprache:** JavaScript / TypeScript _(je nachdem, was du wählst)_
+- **Sprache:** TypeScript
 
 ## 🚀 Getting Started
 
@@ -37,14 +37,13 @@ _(Ersetze `DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME` mit den korrekten Werten)_
     _(Ersetze `DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME` mit den korrekten Werten)_
 
     ```bash
-    git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME.git](https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME.git)
+    git clone [https://github.com/KayBeckmann/vorschule.git](https://github.com/KayBeckmann/vorschule.git)
     ```
 
 2.  Wechsle in das Projektverzeichnis:
-    _(Ersetze `DEIN-REPOSITORYNAME` mit dem korrekten Wert)_
 
     ```bash
-    cd DEIN-REPOSITORYNAME
+    cd vorschule
     ```
 
 3.  Installiere die Abhängigkeiten:
@@ -63,26 +62,35 @@ _(Ersetze `DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME` mit den korrekten Werten)_
 
 ```bash
 npm run dev
+```
+
 oder
 
-Bash
-
+```Bash
 yarn dev
+```
+
 Die App sollte dann unter http://localhost:5173 (oder einem ähnlichen Port) erreichbar sein.
 
 Build für die Produktion
-Bash
-
+```Bash
 npm run build
+```
+
 oder
 
-Bash
-
+```Bash
 yarn build
-🤝 Beitragen (Contributing)
-Wir freuen uns über Beiträge! Wenn du Ideen hast, Fehler findest oder neue Features entwickeln möchtest, schau dir bitte unsere Contributing Guidelines im Wiki an und erstelle einen Pull Request oder ein Issue.
-(Ersetze DEIN-BENUTZERNAME/DEIN-REPOSITORYNAME mit den korrekten Werten für den Link)
-
-📝 Lizenz
-Dieses Projekt steht unter der MIT Lizenz.
 ```
+
+# 🤝 Beitragen (Contributing)
+Wir freuen uns über Beiträge! Wenn du Ideen hast, Fehler findest oder neue Features entwickeln möchtest, schau dir bitte unsere Contributing Guidelines im Wiki an und erstelle einen Pull Request oder ein Issue.
+
+# 📝 Lizenz
+Dieses Projekt steht unter der MIT Lizenz.
+
+# Kaffee
+
+Über einen
+[Kaffee](https://www.buymeacoffee.com/snuppedelua)
+würde ich mich auf jeden Fall freuen.
