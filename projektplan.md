@@ -21,20 +21,20 @@ Ziel dieses Plans ist es, die Entwicklung der Lern-App für Kinder von der initi
 
 ### Phase 0: Projekt-Setup und Grundlagen (Woche 1)
 
-- **[ ] Schritt 0.1: Entwicklungsumgebung einrichten**
-  - [ ] Node.js (aktuelle LTS-Version) und npm/yarn installieren/prüfen.
-  - [ ] Git installieren/prüfen.
-  - [ ] Code-Editor (z.B. VS Code) mit empfohlenen Vue/ESLint Extensions einrichten.
-- **[ ] Schritt 0.2: Vue 3 Projekt initialisieren**
-  - [ ] Neues Vue 3 Projekt mit Vite erstellen (`npm create vue@latest` oder `yarn create vue`).
-  - [ ] TypeScript oder JavaScript als Sprache auswählen (gemäß Entscheidung).
-  - [ ] ESLint und Prettier für Code-Qualität und Formatierung einrichten.
-- **[ ] Schritt 0.3: Git-Repository einrichten**
-  - [ ] Lokales Git-Repository initialisieren (`git init`).
-  - [ ] GitHub-Repository erstellen (privat oder öffentlich).
-  - [ ] Lokales Repository mit GitHub verbinden und ersten Commit pushen.
-  - [ ] `README.md` (aus Vorlage) und `LICENSE.md` hinzufügen und committen.
-  - [ ] `.gitignore` Datei anpassen (Standard von Vite ist meist gut, ggf. `.env` etc. hinzufügen).
+- **[x] Schritt 0.1: Entwicklungsumgebung einrichten**
+  - [x] Node.js (aktuelle LTS-Version) und npm/yarn installieren/prüfen.
+  - [x] Git installieren/prüfen.
+  - [x] Code-Editor (z.B. VS Code) mit empfohlenen Vue/ESLint Extensions einrichten.
+- **[x] Schritt 0.2: Vue 3 Projekt initialisieren**
+  - [x] Neues Vue 3 Projekt mit Vite erstellen (`npm create vue@latest` oder `yarn create vue`).
+  - [x] TypeScript oder JavaScript als Sprache auswählen (gemäß Entscheidung).
+  - [x] ESLint und Prettier für Code-Qualität und Formatierung einrichten.
+- **[x] Schritt 0.3: Git-Repository einrichten**
+  - [x] Lokales Git-Repository initialisieren (`git init`).
+  - [x] GitHub-Repository erstellen (privat oder öffentlich).
+  - [x] Lokales Repository mit GitHub verbinden und ersten Commit pushen.
+  - [x] `README.md` (aus Vorlage) und `LICENSE.md` hinzufügen und committen.
+  - [x] `.gitignore` Datei anpassen (Standard von Vite ist meist gut, ggf. `.env` etc. hinzufügen).
 - **[ ] Schritt 0.4: Grundlegende PWA-Features vorbereiten**
   - [ ] Web App Manifest (`manifest.json` oder `manifest.webmanifest`) erstellen und konfigurieren (App-Name, Icons, Start-URL, Display-Mode).
   - [ ] Einfachen Service Worker für Caching der App-Shell erstellen und registrieren (z.B. mit Vite PWA Plugin oder manuell).
